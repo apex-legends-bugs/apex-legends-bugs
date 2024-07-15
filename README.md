@@ -47,7 +47,7 @@ Since a few people asked, we set up [a support page on ko-fi](https://ko-fi.com/
 Spread the news and let people know. Tell your favourite content creators, streamers, and pro players to use this and report bugs. We want to show a unified front to Respawn and EA who are simply neglecting the code base of Apex.
 
 ### Star this project ✨
-If you have set up a GitHub account, make sure you're logged into it and Star ⭐ this repository. You can find the "Star" button in the upper right corner of this site. This will help this bug tracker reach more people!
+If you have set up a GitHub account, make sure you're logged into it and Star ⭐ this repository. You can find the "Star" button in the upper right corner of this site. This will help this bug tracker reach more people! If you don't see the button, try going to [this link](https://github.com/apex-legends-bugs/apex-legends-bugs) and looking there.
 
 ### Take screenshots and clips 🖼🎬
 Browse the bugs and find ones that still don't have a screenshot or a video clip associated with them. Take screenshots and clips and upload them. Then add them in a comment! This sort of work is very important!
