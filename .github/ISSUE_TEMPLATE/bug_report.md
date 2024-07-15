@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[BUG]"
+title: "[BUG] "
 labels: bug
 assignees: ''
 
@@ -19,6 +19,9 @@ Steps to reproduce the behavior:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+
+**Why could this be happening?**
+Do you think you know the technical reason this is happening? Feel free to put your theory here.
 
 **Clips and Screenshots**
 If applicable, add clips (youtube link or upload here) and screenshots to help explain your problem.
