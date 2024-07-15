@@ -40,6 +40,9 @@ Here's where you can find the bugs:
 
 ## How to support this project 💪
 
+### Support us on Ko-Fi! ☕
+Since a few people asked, we set up [a support page on ko-fi](https://ko-fi.com/apexlegendsbugs). Feel free to donate anything you want - anything helps! Donations will go towards supporting this project in the long term. Note that donations are non-refundable and they do not buy anything other than happiness!
+
 ### Tell others 🗣
 Spread the news and let people know. Tell your favourite content creators, streamers, and pro players to use this and report bugs. We want to show a unified front to Respawn and EA who are simply neglecting the code base of Apex.
 
