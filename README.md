@@ -8,6 +8,14 @@ This place is not related to or associated with EA or Respawn. This is purely a 
 
 Apex Legends has so many bugs that not even the devs can remember all of them. Since Apex is turning more and more decrepit with every single update, there needs to be a central place to track the issues. In the past, Respawn have had a trello board, but that's nothing more than a publicity stunt. It didn't list anywhere near all the bugs, and it was never updated. There was no way to track progress and discuss the issues or figure out possible work arounds.
 
+## The bugs! 🐛
+
+Here's where you can find the bugs:
+- [all bugs](https://github.com/apex-legends-bugs/bugs/issues?page=1&q=is%3Aissue+is%3Aopen)
+- [serious issues](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22serious+issue%22)
+- [issues due to insufficient playtesting](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22insufficient+playtesting%22) - basically because Respawn fired too many play testers.
+- [issues that result in users losing real money](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22monetary+loss%22)
+
 ## How to report a bug 🌱
 
 1. ⏩ Go to the "Issues" link at the top of this page, or simply follow this link: https://github.com/apex-legends-bugs/bugs/issues
@@ -32,8 +40,14 @@ Apex Legends has so many bugs that not even the devs can remember all of them. S
 
 ## How to support this project 💪
 
+### Tell others 🗣
 Spread the news and let people know. Tell your favourite content creators, streamers, and pro players to use this and report bugs. We want to show a unified front to Respawn and EA who are simply neglecting the code base of Apex.
 
+### Star this project ✨
 If you have set up a GitHub account, make sure you're logged into it and Star ⭐ this repository. You can find the "Star" button in the upper right corner of this site. This will help this bug tracker reach more people!
 
-We're looking for someone to create nice art for this thing so if you want to submit something, reach out. To be up front, there's no budget here.
+### Take screenshots and clips 🖼🎬
+Browse the bugs and find ones that still don't have a screenshot or a video clip associated with them. Take screenshots and clips and upload them. Then add them in a comment! This sort of work is very important!
+
+### Make some art 🎨
+We're looking for someone to create nice art for this thing so if you want to submit something, reach out. To be up front, there's no budget here, so if you're not OK with that, that's perfectly fine.
