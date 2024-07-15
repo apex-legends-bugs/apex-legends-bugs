@@ -34,4 +34,6 @@ Apex Legends has so many bugs that not even the devs can remember all of them. S
 
 Spread the news and let people know. Tell your favourite content creators, streamers, and pro players to use this and report bugs. We want to show a unified front to Respawn and EA who are simply neglecting the code base of Apex.
 
+If you have set up a GitHub account, make sure you're logged into it and Star ⭐ this repository. You can find the "Star" button in the upper right corner of this site. This will help this bug tracker reach more people!
+
 We're looking for someone to create nice art for this thing so if you want to submit something, reach out. To be up front, there's no budget here.
