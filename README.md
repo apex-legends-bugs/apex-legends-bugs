@@ -16,6 +16,7 @@ Here's where you can find the bugs:
 - [issues due to insufficient playtesting](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22insufficient+playtesting%22) - basically because Respawn fired too many play testers.
 - [issues that result in users losing real money](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22monetary+loss%22)
 - [things that were reported as bugs, but were actually intended features](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=label%3A%22intended+feature%22)
+- [drill down into issues based on labels - eg issues with servers, guns, abilities, etc](https://github.com/apex-legends-bugs/apex-legends-bugs/labels)
 
 ## How to report a bug 🌱
 
