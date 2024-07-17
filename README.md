@@ -8,15 +8,23 @@ This place is not related to or associated with EA or Respawn. This is purely a 
 
 Apex Legends has so many bugs that not even the devs can remember all of them. Since Apex is turning more and more decrepit with every single update, there needs to be a central place to track the issues. In the past, Respawn have had a trello board, but that's nothing more than a publicity stunt. It didn't list anywhere near all the bugs, and it was never updated. There was no way to track progress and discuss the issues or figure out possible work arounds.
 
+## Why do Respawn's job for them? 🤔
+
+Several people have asked something similar to the following question:
+
+> personally i wouldn't participate in this because why do free work for EA?
+
+To control the narrative. It is convenient for Respawn not to have a list like this, which is exactly why we're having a list like this.
+
 ## The bugs! 🐛
 
 Here's where you can find the bugs:
-- [all bugs](https://github.com/apex-legends-bugs/bugs/issues?page=1&q=is%3Aissue+is%3Aopen)
-- [serious issues](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22serious+issue%22)
-- [issues due to insufficient playtesting](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22insufficient+playtesting%22) - basically because Respawn fired too many play testers.
-- [issues that result in users losing real money](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22monetary+loss%22)
-- [things that were reported as bugs, but were actually intended features](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=label%3A%22intended+feature%22)
-- [drill down into issues based on labels - eg issues with servers, guns, abilities, etc](https://github.com/apex-legends-bugs/apex-legends-bugs/labels)
+- 🐜 [All bugs](https://github.com/apex-legends-bugs/bugs/issues?page=1&q=is%3Aissue+is%3Aopen)
+- ⚠ [Serious issues](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22serious+issue%22)
+- 🧪 [Issues due to insufficient playtesting](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22insufficient+playtesting%22) - basically because Respawn fired too many play testers.
+- 💸 [Issues that result in users losing real money](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22monetary+loss%22)
+- 👍 [Things that were reported as bugs, but were actually intended features](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=label%3A%22intended+feature%22)
+- 🔍 [Here you can search issues based on labels - eg issues with servers, guns, abilities, etc](https://github.com/apex-legends-bugs/apex-legends-bugs/labels)
 
 ## How to report a bug 🌱
 
