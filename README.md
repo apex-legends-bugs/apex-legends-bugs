@@ -60,7 +60,7 @@ Spread the news and let people know. Tell your favourite content creators, strea
 If you have set up a GitHub account, make sure you're logged into it and Star ⭐ this repository. You can find the "Star" button in the upper right corner of this site. This will help this bug tracker reach more people! If you don't see the button, try going to [this link](https://github.com/apex-legends-bugs/apex-legends-bugs) and looking there.
 
 ### Take screenshots and clips 🖼🎬
-Browse the bugs and find ones that still don't have a screenshot or a video clip associated with them. Take screenshots and clips and upload them. Then add them in a comment! This sort of work is very important!
+A bunch of bugs still don't have a screenshot or a video clip associated with them. You can find them [here](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=is%3Aopen+label%3A%22needs+screenshot%22%2C%22needs+video%22). If you want to help, take screenshots and clips and upload them. Then add them in a comment! This sort of work is very important, and your contribution matters a lot!
 
 ### Make some art 🎨
 We're looking for someone to create nice art for this thing so if you want to submit something, reach out. To be up front, there's no budget here, so if you're not OK with that, that's perfectly fine.
