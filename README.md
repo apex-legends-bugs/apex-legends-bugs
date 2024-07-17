@@ -14,7 +14,7 @@ Several people have asked something similar to the following question:
 
 > personally i wouldn't participate in this because why do free work for EA?
 
-To control the narrative. It is convenient for Respawn not to have a list like this, which is exactly why we're having a list like this.
+To control the narrative. It is convenient for Respawn not to have a list like this, which is exactly why we're having a list like this. If no one knows about long standing issues in Apex, there is no pressure on Respawn to finally fix them.
 
 ## The bugs! 🐛
 
