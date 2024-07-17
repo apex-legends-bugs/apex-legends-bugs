@@ -14,14 +14,14 @@ Several people have asked something similar to the following question:
 
 > personally i wouldn't participate in this because why do free work for EA?
 
-To control the narrative. It is convenient for Respawn not to have a list like this, which is exactly why we're having a list like this. If no one knows about long standing issues in Apex, there is no pressure on Respawn to finally fix them.
+To control the narrative. It is convenient for Respawn not to have a list like this, which is exactly why we're having a list like this. If no one knows about long standing issues in Apex, there is no pressure on Respawn to finally fix them. Eventually hopefully EA's shareholders are going to start asking why EA and Respawn are killing the gold egg laying goose, and EA will get a fire lit under their asses to start caring about quality assurance and bug fixing instead of just caring about "line go up" 📈.
 
 ## The bugs! 🐛
 
 Here's where you can find the bugs:
 - 🐜 [All bugs](https://github.com/apex-legends-bugs/bugs/issues?page=1&q=is%3Aissue+is%3Aopen)
 - ⚠ [Serious issues](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22serious+issue%22)
-- 🧪 [Issues due to insufficient playtesting](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22insufficient+playtesting%22) - basically because Respawn fired too many play testers.
+- 🧪 [Issues due to insufficient playtesting](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22insufficient+playtesting%22) - basically because Respawn [fired](https://www.reddit.com/r/apexlegends/comments/11ef0we/comment/jadrzrh/?utm_source=reddit&utm_medium=web2x&context=3) too [many](https://www.youtube.com/watch?v=0OzeHpuUleQ) play testers.
 - 💸 [Issues that result in users losing real money](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22monetary+loss%22)
 - 👍 [Things that were reported as bugs, but were actually intended features](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=label%3A%22intended+feature%22)
 - 🔍 [Here you can search issues based on labels - eg issues with servers, guns, abilities, etc](https://github.com/apex-legends-bugs/apex-legends-bugs/labels)
