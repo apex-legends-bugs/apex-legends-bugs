@@ -62,5 +62,16 @@ If you have set up a GitHub account, make sure you're logged into it and Star �
 ### Take screenshots and clips 🖼🎬
 A bunch of bugs still don't have a screenshot or a video clip associated with them. You can find them [here](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=is%3Aopen+label%3A%22needs+screenshot%22%2C%22needs+video%22). If you want to help, take screenshots and clips and upload them. Then add them in a comment! This sort of work is very important, and your contribution matters a lot!
 
+### Investigate old bugs 🕸
+Very many bugs have been reported on social media over the years, and many have been ignored by Respawn. Here's your chance to be a true Digital Historian! Search social media for Apex bug reports, try to reproduce them, and if you can, report them here!
+
+Here are some places to look:
+- [ApexUncovered subreddit](https://www.reddit.com/r/ApexUncovered/)
+- Search results on the main Apex subreddit: [most relevant first](https://www.reddit.com/r/apexlegends/search/?q=title%3Abug&restrict_sr=1), [most popular first](https://www.reddit.com/r/apexlegends/search/?q=title%3Abug&restrict_sr=1&sort=top), [newest first](https://www.reddit.com/r/apexlegends/search/?q=title%3Abug&restrict_sr=1&sort=new)
+- [Twitter](https://x.com/search?q=apex+legends+bug)
+- [YouTube](https://www.youtube.com/results?search_query=apex+legends+bug)
+
+Sometimes, bugs go unnoticed for a veeeeery long time - so finding old bugs is important!
+
 ### Make some art 🎨
 We're looking for someone to create nice art for this thing so if you want to submit something, reach out. To be up front, there's no budget here, so if you're not OK with that, that's perfectly fine.
