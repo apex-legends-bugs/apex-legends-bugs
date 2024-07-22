@@ -27,6 +27,7 @@ Here's where you can find the bugs:
 - ⚠ [Serious issues](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22serious+issue%22)
 - 🧪 [Issues due to insufficient playtesting](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22insufficient+playtesting%22) - basically because Respawn [fired](https://www.reddit.com/r/apexlegends/comments/11ef0we/comment/jadrzrh/?utm_source=reddit&utm_medium=web2x&context=3) too [many](https://www.youtube.com/watch?v=0OzeHpuUleQ) play testers.
 - 💸 [Issues that result in users losing real money](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22monetary+loss%22)
+- 🔪 [Issues that can affect people's personal safety](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22user+safety%22)
 - 👍 [Things that were reported as bugs, but were actually intended features](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=label%3A%22intended+feature%22)
 - 🔍 [Here you can search issues based on labels - eg issues with servers, guns, abilities, etc](https://github.com/apex-legends-bugs/apex-legends-bugs/labels)
 
@@ -67,6 +68,9 @@ If you have set up a GitHub account, make sure you're logged into it and Star �
 
 ### Take screenshots and clips 🖼🎬
 A bunch of bugs still don't have a screenshot or a video clip associated with them. You can find them [here](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=is%3Aopen+label%3A%22needs+screenshot%22%2C%22needs+video%22). If you want to help, take screenshots and clips and upload them. Then add them in a comment! This sort of work is very important, and your contribution matters a lot!
+
+### Help confirm unconfirmed bugs 🕵️‍♀️🕵️‍♂️
+There are some bugs that haven't been confirmed yet - you could try and reproduce them on your end with friends, and see what happens. [Here's a list of those bugs](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22unconfirmed+%2F+rumor%22).
 
 ### Investigate old bugs 🕸
 Very many bugs have been reported on social media over the years, and many have been ignored by Respawn. Here's your chance to be a true Digital Historian! Search social media for Apex bug reports, try to reproduce them, and if you can, report them here!
