@@ -1,12 +1,15 @@
 # Unofficial Apex Legends Bug Tracker 🐞
 
+
 ## Disclaimer ⚖
 
 This place is not related to or associated with EA or Respawn. This is purely a community driven project - by users, for users.
 
+
 ## Why this exists 💡
 
 Apex Legends has so many bugs that not even the devs can remember all of them. Since Apex is turning more and more decrepit with every single update, there needs to be a central place to track the issues. In the past, Respawn have had a trello board, but that's nothing more than a publicity stunt. It didn't list anywhere near all the bugs, and it was never updated. There was no way to track progress and discuss the issues or figure out possible work arounds.
+
 
 ## Why do Respawn's job for them? 🤔
 
@@ -15,6 +18,7 @@ Several people have asked something similar to the following question:
 > personally i wouldn't participate in this because why do free work for EA?
 
 To control the narrative. It is convenient for Respawn not to have a list like this, which is exactly why we're having a list like this. If no one knows about long standing issues in Apex, there is no pressure on Respawn to finally fix them. Eventually hopefully EA's shareholders are going to start asking why EA and Respawn are killing the gold egg laying goose, and EA will get a fire lit under their asses to start caring about quality assurance and bug fixing instead of just caring about "line go up" 📈.
+
 
 ## The bugs! 🐛
 
@@ -25,6 +29,7 @@ Here's where you can find the bugs:
 - 💸 [Issues that result in users losing real money](https://github.com/apex-legends-bugs/bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22monetary+loss%22)
 - 👍 [Things that were reported as bugs, but were actually intended features](https://github.com/apex-legends-bugs/apex-legends-bugs/issues?q=label%3A%22intended+feature%22)
 - 🔍 [Here you can search issues based on labels - eg issues with servers, guns, abilities, etc](https://github.com/apex-legends-bugs/apex-legends-bugs/labels)
+
 
 ## How to report a bug 🌱
 
@@ -47,6 +52,7 @@ Here's where you can find the bugs:
   - confirmation that you experienced the issue (if the issue hasn't been confirmed yet)
 6. 💥 IF YOU SEARCHED ALL THE BUGS AND FOUND NOTHING, you may post a new issue. Try to be as useful as possible: include a youtube clip and a screenshot of the issue happening. Include the exact time and date the issue happened. Include what your server was set to. Include your platform.
 7. 🛡 To report an issue, you need to have a GitHub account. Sign up with it. This requirement exists to prevent people spamming the issue tracker. You can sign up at https://www.github.com
+
 
 ## How to support this project 💪
 
@@ -75,3 +81,42 @@ Sometimes, bugs go unnoticed for a veeeeery long time - so finding old bugs is i
 
 ### Make some art 🎨
 We're looking for someone to create nice art for this thing so if you want to submit something, reach out. To be up front, there's no budget here, so if you're not OK with that, that's perfectly fine.
+
+
+## Frequent Stupid Comments ❓
+
+There's a bunch of trolly comments that come up over and over, so let's dispatch them here once and for all! 🙂
+
+### "But that's not a bug!" 😡
+
+Sometimes people show up really upset, claiming that things reported in the bug tracker are not bugs. That's ok - everyone's point of view differs and to a large extent whether something is a bug, a missing feature, or as intended is down to one's personal preferences. The bugs on this tracker are sourced from common complaints by the community - if it's here, it bothers some people. It's okay if it doesn't bother you!
+
+This bug tracker tries to set a high standard of quality is for the product and its dev team. Meanwhile, a lot of people are used to crappy products, buggy games, and broken releases to where they can't even recognize problems for what they are. This can sometimes create confusion as to what is a bug.
+
+If you are very upset with what bugs are being presented, feel free to set up your own bug tracker - it's free!
+
+### "Those bug reports suck!" 👺
+
+As we don't have access to internal systems and source code, a small percentage of bug reports can't be as precise as they would be with an open source project. However, even a slightly fuzzy bug report can be a start to a more robust conversation which can lead to narrowing down the cause or finding workarounds. One of the main roles of this bug tracker is to be a discussion space about bugs rather than a strict quality assurance checklist.
+
+### "You're just being inflammatory!" 😗👢
+
+Respawn and EA are corporations which make billions of dollars on a product which, ultimately, carries a lot of broken features and failed promises. The community has been calling for fixes to many long standing issues for years, only to be ignored. Yet _the store always works_. Calling Respawn to task is only natural in a situation where they completely drop the ball over years of inactivity, disorganized development, and bug after bug being introduced into a game people can spend thousands of dollars on.
+
+### "But it's EA! Respawn really wants to fix this game, EA is stopping them!" 😍
+
+People said the same about Bungie, and when they bought their studio out the monetization in Destiny 2 got even worse. In 2019, Bunchie fully split off from their Publisher Activision. Quote from Wikipedia:
+
+> Bungie terminated its publishing deal with Activision in 2019, after eight years; as per their agreement, Bungie retained all rights to Destiny and will self-publish future installments and expansions. This included transitioning Destiny 2 from using Activision's Battle.net to Steam. Bungie's communications director David Dague dispelled ideas that Activision was a "prohibitive overlord" that limited Bungie's creative control, and instead stated that both companies amicably split due to different ideas of where the Destiny franchise should head.
+
+Many naiive voices in the community rejoiced, saying that "now, Bungie will be free to make the game they wanted, without Activision squeezing the game for money".
+
+In 2021, Bungie fucked over the community with egregious, mustache-twirling-villain monetization, and [simply taking away content people already paid money for](https://www.youtube.com/watch?v=OVwS8-NSp5I).
+
+This proves that dev companies aren't just happy with a ludicrously large amount of money - they want _all_ the money.
+
+If you think Respawn is a charity and they are not doing their utmost to skirt all the work they can and just 100% laser-focus on making _all_ the money, you have been mislead. You have fallen for Respawn's [blame shifting](https://www.google.com/search?q=what+is+blame+shifting), a strategy meant to get them off the hook for their own responsibilities by creating a nebulous third entity that is supposedly the real one to blame. By doing that, Respawn create a situation where you cannot understand the situation, because you _don't know anything at all_ about what EA is telling Respawn to do, and you start romanticizing the situation, hoping that the company you love and revere so much is actually [fully blameless](https://www.google.com/search?q=the+actual+crook). This is a special case of [Stockholm syndrome](https://www.google.com/search?q=Stockholm+syndrome). Remember when there were unconfirmed mentions about a nebulous deal between Sony and Respawn that prevented cross progression? That's that kind of thing.
+
+Every high level employee in Respawn has company stock, and they primarily want Line Go Up. It's fairly obvious they will take their own and their family's wellbeing and earnings over what Imperial Hal or Zach Mazer have to say about the state of the game. As a normal end user without a social platform and without millions of followers, you're not even a blip on the map.
+
+This platform exists to allow the voices of the whole community join in one clear signal that shows that Respawn is killing Apex due to serious inaction and which is meant to expressly tank Respawn and EA stock due to their inaction. The only way EA and Respawn can prevent this from happening is fixing the bugs listed in here.
