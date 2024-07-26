@@ -107,7 +107,7 @@ As we don't have access to internal systems and source code, a small percentage 
 
 Respawn and EA are corporations which make billions of dollars on a product which, ultimately, carries a lot of broken features and failed promises. The community has been calling for fixes to many long standing issues for years, only to be ignored. Yet _the store always works_. Calling Respawn to task is only natural in a situation where they completely drop the ball over years of inactivity, disorganized development, and bug after bug being introduced into a game people can spend thousands of dollars on.
 
-### "But it's EA! Respawn really wants to fix this game, EA is stopping them!" 😍
+### "But it's EA! Respawn really wants to fix this game, EA is stopping them!" 🥰
 
 People said the same about Bungie, and when they bought their studio out the monetization in Destiny 2 got even worse. In 2019, Bunchie fully split off from their Publisher Activision. Quote from Wikipedia:
 
@@ -117,9 +117,9 @@ Many naiive voices in the community rejoiced, saying that "now, Bungie will be f
 
 In 2021, Bungie fucked over the community with egregious, mustache-twirling-villain monetization, and [simply taking away content people already paid money for](https://www.youtube.com/watch?v=OVwS8-NSp5I).
 
-This proves that dev companies aren't just happy with a ludicrously large amount of money - they want _all_ the money.
+This proves that dev companies aren't happy with just a ludicrously large amount of money - they want _all_ the money.
 
-If you think Respawn is a charity and they are not doing their utmost to skirt all the work they can and just 100% laser-focus on making _all_ the money, you have been mislead. You have fallen for Respawn's [blame shifting](https://www.google.com/search?q=what+is+blame+shifting), a strategy meant to get them off the hook for their own responsibilities by creating a nebulous third entity that is supposedly the real one to blame. By doing that, Respawn create a situation where you cannot understand the situation, because you _don't know anything at all_ about what EA is telling Respawn to do, and you start romanticizing the situation, hoping that the company you love and revere so much is actually [fully blameless](https://www.google.com/search?q=the+actual+crook). This is a special case of [Stockholm syndrome](https://www.google.com/search?q=Stockholm+syndrome). Remember when there were unconfirmed mentions about a nebulous deal between Sony and Respawn that prevented cross progression? That's that kind of thing.
+If you think Respawn is a charity and they are not doing their utmost to skirt all the work they can and just 100% laser-focus on making _all_ the money, you have been misled. You have fallen for Respawn's [blame shifting](https://www.google.com/search?q=what+is+blame+shifting), a strategy meant to get them off the hook for their own responsibilities by creating a nebulous third entity that is supposedly the real one to blame. By doing that, Respawn create a situation where you cannot understand the situation, because you _don't know anything at all_ about what EA is telling Respawn to do, and you start romanticizing the situation, hoping that the company you love and revere so much is actually [fully blameless](https://www.google.com/search?q=the+actual+crook). This is a special case of [Stockholm syndrome](https://www.google.com/search?q=Stockholm+syndrome). Remember when there were unconfirmed mentions about a nebulous deal between Sony and Respawn that prevented cross progression? That's that kind of thing.
 
 Every high level employee in Respawn has company stock, and they primarily want Line Go Up. It's fairly obvious they will take their own and their family's wellbeing and earnings over what Imperial Hal or Zach Mazer have to say about the state of the game. As a normal end user without a social platform and without millions of followers, you're not even a blip on the map.
 
